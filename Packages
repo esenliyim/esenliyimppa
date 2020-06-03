@@ -1,0 +1,14 @@
+Package: sp-tray
+Version: 1.0
+Architecture: all
+Essential: no
+Maintainer: esenliyim@gmail.com
+Depends: rsync
+Filename: ./sp-tray_1.0_all.deb
+Size: 21444
+MD5sum: acb5338d01eae647a497b54ab96f79fa
+SHA1: a8006b0fe6dee5334c7633d10342f9625691ca41
+SHA256: a2e72962842e6060e665d4996baac7ea473760930d2e8f8c92c1c3161135278d
+Priority: optional
+Description: A GNOME shell taskbar widget that displays information about Spotify
+
